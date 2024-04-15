@@ -67,10 +67,3 @@ while True:
   if user_wins == 2:
     print('El ganador del juego es el usuário')
     break
-
-  
-
-
-# [] = listas
-# () = Tuplas 
-# {} = Diccionarios
